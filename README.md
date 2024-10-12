@@ -24,15 +24,15 @@ This project demonstrates how to build a simple system where multiple services r
 
 ## Project Structure
 
-redundancy-failover/
-│
-├── src/
-│   ├── loadBalancer.js          # Load balancer logic with health checks
-│   ├── serviceInstance.js       # Simulates multiple service instances
-│   └── healthChecker.js         # Monitors service instance health
-│
-├── package.json                 # Project dependencies and metadata
-└── README.md                    # Documentation
+    redundancy-failover/
+    │
+    ├── src/
+    │   ├── loadBalancer.js          # Load balancer logic with health checks
+    │   ├── serviceInstance.js       # Simulates multiple service instances
+    │   └── healthChecker.js         # Monitors service instance health
+    │
+    ├── package.json                 # Project dependencies and metadata
+    └── README.md                    # Documentation
 
 ## Requirements
 
