@@ -43,11 +43,11 @@ This project demonstrates how to build a simple system where multiple services r
     ```
 
 2. Install the required dependencies:
-```bash
-npm install 
-```
+    ```bash
+    npm install 
+    ```
 
 3. Start the application:
-```bash
-node server.js
-```
+    ```bash
+    node server.js
+    ```
